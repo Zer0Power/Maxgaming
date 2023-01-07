@@ -1,0 +1,2 @@
+# Maxgaming
+Maxgaming GameServer Ips 
